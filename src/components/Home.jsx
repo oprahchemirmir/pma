@@ -16,7 +16,7 @@ const Home = ({ user, setUser }) => {
         scheduling staff,  and analyzing where resources are going (and when).
       </p>
       <NavLink to={startBtn}>
-        <button>Start  project</button>
+        <button>Start a project</button>
       </NavLink>
      </section>
      <section className="home-img">
