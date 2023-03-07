@@ -11,9 +11,9 @@ const Home = ({ user, setUser }) => {
 
       <h1>Software. Faster.</h1>
       <p>
-        From planning to production, PMA brings teams together to shorten cycle
-        times, reduce costs, strengthen security, and increase developer
-        productivity.
+        From planning to production,  Project management software can help you with 
+        time management using features for building work calendars, creating gantt charts, 
+        scheduling staff, tracking time spent on tasks, reserving equipment and spaces, and analyzing where resources are going (and when).
       </p>
       <NavLink to={startBtn}>
         <button>Start a project</button>
