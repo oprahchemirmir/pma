@@ -35,7 +35,7 @@ const Login = ({ user, setUser }) => {
         <hr width='100%' />
         <br />
         <p>
-          Dont have  Account? <a href='/register'>Register</a>
+          Dont have a Account? <a href='/register'>Register</a>
         </p>
       </form>
     </div>
