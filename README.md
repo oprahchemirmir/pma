@@ -37,7 +37,8 @@ run `npm install` to intstall the required dependancies from npm
 run `npm run dev`to run the app
 
 click on the live link provided above 
-
+# contributor
+oprah chemirmir
 
 Copyright [yyyy] [oprahchemirmir]
 # license
