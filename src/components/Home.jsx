@@ -13,7 +13,7 @@ const Home = ({ user, setUser }) => {
       <p>
         From planning to production,  Project management software can help you with 
         time management using features for building work calendars, creating gantt charts, 
-        scheduling staff, tracking time spent on tasks, reserving equipment and spaces, and analyzing where resources are going (and when).
+        scheduling staff,  and analyzing where resources are going (and when).
       </p>
       <NavLink to={startBtn}>
         <button>Start a project</button>
