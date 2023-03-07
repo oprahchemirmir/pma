@@ -9,7 +9,6 @@ Rack
 # deliverables
 1 Users should be able to register / login to the application.
 2 A user should be able to create a project and add details about it.
-3 A user should be able to add other users as members of the project.
 4 Members of a project should be able to update the status of the project.
 5 A user should  be able to view all the projects.
 6 A user should be able delete a project.
